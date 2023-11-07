@@ -7,13 +7,26 @@ class TupleToHTML:
     defaulPath = os.getcwd()
     def __init__(self, data_tuple):
         # Créez une chaîne de caractères HTML pour le tableau
-        html_table = "<table>"
+        html_table ="""
+        <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titre de la Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>"""
+        html_table += "<table>"
         for row in data_tuple:
             html_table += "<tr>"
             for item in row:
                 html_table += "<td>" + str(item) + "</td>"
             html_table += "</tr>"
         html_table += "</table>"
+        html_table += """</body>
+</html>"""
         self.content = html_table
 
     def build(self, nameFile, path):
