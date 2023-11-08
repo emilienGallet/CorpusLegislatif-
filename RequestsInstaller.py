@@ -8,6 +8,7 @@ class RequestsInstaller:
         self.check_and_install_requests('json')
         self.check_and_install_requests('pathlib')
         self.check_and_install_requests('os')
+        self.check_and_install_requests('discord')
 
     def check_and_install_requests(self, x):
         # Vérifier si le module requests est installé

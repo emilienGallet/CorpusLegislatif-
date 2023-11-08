@@ -13,6 +13,8 @@ import CurlLaw
 import RequestsInstaller
 import Traitement
 import TupleToHTML
+import ActualiterEtMAJ
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -20,14 +22,17 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
+
+
 if __name__ == '__main__':
     print_hi('Corpus législatif de la RPD')
     # Install les dépendances
     RequestsInstaller.RequestsInstaller()
     # Télécharge sur le site de la république les PC
-    data = CurlLaw.CurlLaw(url="https://rpd.dirtybiologistan.com/exportPVD").data
+    dataExportPVD = CurlLaw.CurlLaw(url="https://rpd.dirtybiologistan.com/exportPVD").data
+    dataFromDiscordChannel = ActualiterEtMAJ.ActualiterEtMAJ().data
     # Traite les données récoltée
-    cleanerData = Traitement.Traitement.traiterData(data)
+    ###cleanerData = Traitement.Traitement.traiterDataExportPVD(dataExportPVD)
     # Affichage des résultats
-    TupleToHTML.TupleToHTML(cleanerData).build(None, None)
+    ###TupleToHTML.TupleToHTML(cleanerData).build(None, None)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
