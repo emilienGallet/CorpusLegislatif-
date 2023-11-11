@@ -3,8 +3,8 @@ import os
 from  pathlib import PurePath
 
 class TupleToHTML:
-    defaulName = "defaut.html"
-    defaulPath = os.getcwd()
+    defaultName = "default.html"
+    defaultPath = os.getcwd()
     def __init__(self, data_tuple):
         # Créez une chaîne de caractères HTML pour le tableau
         html_table ="""
@@ -38,7 +38,7 @@ class TupleToHTML:
         # Spécifier le nom du fichier que vous voulez créer
         file_name = nameFile
         if nameFile is None :
-            file_name = TupleToHTML.defaulName
+            file_name = TupleToHTML.defaultName
 
         # Combiner le répertoire de travail actuel avec le nom de fichier
         file_path: PurePath= pathlib.PurePath(current_directory, file_name)

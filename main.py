@@ -13,7 +13,7 @@ import CurlLaw
 import RequestsInstaller
 import Traitement
 import TupleToHTML
-import ActualiterEtMAJ
+#import ActualiterEtMAJ
 
 
 def print_hi(name):
@@ -30,9 +30,33 @@ if __name__ == '__main__':
     RequestsInstaller.RequestsInstaller()
     # Télécharge sur le site de la république les PC
     dataExportPVD = CurlLaw.CurlLaw(url="https://rpd.dirtybiologistan.com/exportPVD").data
-    dataFromDiscordChannel = ActualiterEtMAJ.ActualiterEtMAJ().data
+    #dataFromDiscordChannel = ActualiterEtMAJ.ActualiterEtMAJ().data
     # Traite les données récoltée
-    ###cleanerData = Traitement.Traitement.traiterDataExportPVD(dataExportPVD)
+    cleanerData = Traitement.Traitement.traiterDataExportPVD(dataExportPVD)
     # Affichage des résultats
-    ###TupleToHTML.TupleToHTML(cleanerData).build(None, None)
+    TupleToHTML.TupleToHTML(cleanerData).build(None, None)
+
+    import os
+    import sys
+
+    if getattr(sys, 'frozen', False):
+        # L'exécutable a été généré par PyInstaller
+        script_directory = os.path.dirname(sys.executable)
+    else:
+        # L'exécutable est exécuté en tant que script Python
+        script_directory = os.path.dirname(os.path.abspath(__file__))
+    print("Chemin du répertoire du script :", script_directory)
+    # Spécifiez un fichier ou un répertoire relatif par rapport au répertoire du script
+    relative_path = "default.html"  # Vous pouvez spécifier un fichier ou un répertoire ici
+
+    # Composez le chemin complet du fichier relatif
+    file_path = os.path.join(script_directory, relative_path)
+
+    import webbrowser
+    # URL de la page que vous souhaitez ouvrir
+    url = "file://"+file_path
+
+    # Ouvrir le navigateur par défaut avec l'URL spécifiée
+    webbrowser.open(url)
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

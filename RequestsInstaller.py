@@ -9,6 +9,7 @@ class RequestsInstaller:
         self.check_and_install_requests('pathlib')
         self.check_and_install_requests('os')
         self.check_and_install_requests('discord')
+        self.check_and_install_requests('webbrowser')
 
     def check_and_install_requests(self, x):
         # Vérifier si le module requests est installé
@@ -16,7 +17,7 @@ class RequestsInstaller:
             importlib.import_module(x)
         except ImportError:
             # Le module requests n'est pas installé, nous allons l'installer
-            print("Le module 'requests' n'est pas installé. Installation en cours...")
+            print(f"Le module {x} n'est pas installé. Installation en cours...")
 
             # Utiliser pip pour installer requests
             subprocess.check_call([sys.executable, "-m", "pip", "install", x])
