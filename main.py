@@ -27,7 +27,11 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Corpus législatif de la RPD')
     # Install les dépendances
-    RequestsInstaller.RequestsInstaller()
+    import sys
+    if getattr(sys, 'frozen', False):
+        print("soyons fou")
+    else:
+        RequestsInstaller.RequestsInstaller()
     # Télécharge sur le site de la république les PC
     dataExportPVD = CurlLaw.CurlLaw(url="https://rpd.dirtybiologistan.com/exportPVD").data
     #dataFromDiscordChannel = ActualiterEtMAJ.ActualiterEtMAJ().data
@@ -37,7 +41,7 @@ if __name__ == '__main__':
     TupleToHTML.TupleToHTML(cleanerData).build(None, None)
 
     import os
-    import sys
+    
 
     if getattr(sys, 'frozen', False):
         # L'exécutable a été généré par PyInstaller

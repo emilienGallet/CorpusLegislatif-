@@ -47,5 +47,5 @@ class TupleToHTML:
         str_file_path = file_path.as_posix()
 
         # Ouvrez le fichier en mode écriture pour le créer
-        with open(str_file_path, 'w') as file:
+        with open(str_file_path, 'w', encoding='utf-8') as file:
             file.write(self.content)
