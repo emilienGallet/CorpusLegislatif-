@@ -1,3 +1,8 @@
+import sys
+import os
+
+"""Class qui permet retrouver dans les documents déjà fetcher et aussi parmis les éléments dans la PVD
+les éléments qui ne sont pas fetcher"""
 class DwldLaw:
 
     """Initialise le constructeur et apporte des éléments nécéssaire si besoin"""
@@ -26,7 +31,13 @@ class DwldLaw:
                         self.unfechedData.append(url)
         for anFetchedData in self.fetchedData:
             noLine = 1
-            with open("sourceDwnld/"+anFetchedData[1], 'r') as file:
+            if getattr(sys, 'frozen', False):
+                # L'exécutable a été généré par PyInstaller
+                script_directory = os.path.dirname(sys.executable)
+            else:
+                # L'exécutable est exécuté en tant que script Python
+                script_directory = os.path.dirname(os.path.abspath(__file__))
+            with open(os.path.join(script_directory, "sourceDwnld", anFetchedData[1]), 'r') as file:
                 for line in file:
                     urls = self.findURLs(line)
                     if urls != None or urls == []:
