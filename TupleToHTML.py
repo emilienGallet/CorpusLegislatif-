@@ -7,7 +7,7 @@ class TupleToHTML:
     defaultPath = os.getcwd()
     def __init__(self, data_tuple):
         # Créez une chaîne de caractères HTML pour le tableau
-        html_table ="""
+        htmlStr ="""
         <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -18,16 +18,16 @@ class TupleToHTML:
     <script src="script.js"></script>
 </head>
 <body>"""
-        html_table += "<table>"
+        htmlStr += "<table>"
         for row in data_tuple:
-            html_table += "<tr>"
+            htmlStr += "<tr>"
             for item in row:
-                html_table += "<td>" + str(item) + "</td>"
-            html_table += "</tr>"
-        html_table += "</table>"
-        html_table += """</body>
+                htmlStr += "<td>" + str(item) + "</td>"
+            htmlStr += "</tr>"
+        htmlStr += "</table>"
+        htmlStr += """</body>
 </html>"""
-        self.content = html_table
+        self.content = htmlStr
 
     def build(self, nameFile, path):
         # Obtenir le répertoire de travail actuel

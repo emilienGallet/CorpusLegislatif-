@@ -1,0 +1,823 @@
+﻿Journal Officiel dit « Code Civil » de la République Participative du Dibistan
+Version développée
+Sommaire
+
+
+Sommaire        1
+Introduction        3
+Période Républico-populaire        4
+Première Constitution        4
+L1: loi de transparence        4
+L2: Loi sur les fêtes régionales et départementales        4
+L3: loi sur la laïcité        5
+Loi 3.1: Loi sur la police (désuet / incompatible)        5
+Période Républico-participative        6
+Résultats des référendums du 29/11/22        6
+D1: octroie manuel de la citoyenneté        6
+D2: emoji saucisse végétale        6
+L3.5 : Loi relatif au déroulement d’un procès        6
+Résultat des référendums du 13/12/22        6
+ML1: Modification loi organique sur le territoire et la subdivision administrative        7
+D3 : Intégration à l’ACTL        7
+Résultats des référendums du 21/12/22        7
+D4: visibilité de la PVD        7
+L4 / ML2: loi sur la laïcité        8
+Résultats du référendum du 09/01/23        8
+CA1: Ambassade du serveur        8
+Résultats des Référendums du 16/01/23        8
+D5: catégorisation des PC        8
+D6: visibilité des lois sur le site        9
+D7: mise en place de système de comunication        9
+Seconde Constitution (mise à jour du 20/01/23)        10
+Résultats des Référendums du 24/01/23        10
+RC1: premier assouplissement constitutionnel        10
+D8: Signature des PC        10
+D9: espace forum sur la PVD        10
+T1: union entre RPD et Grand Sud (région)        11
+D10: Drapeau        11
+Résultats des Référendums du 30/01/23        11
+T2: reconnaissance du Poteau Rose        11
+T3: reconnaissance de la Crisardie        12
+D11: identification des PC        12
+L5: loi anti-fraude sur la PVD        12
+Résultats des Référendums du 06/02/23        12
+D12; politique de développement de l’aspect communautaire        12
+D13: recueil des adresses des citoyens        13
+D14: hommage aux Djiboutans        13
+Résultats des référendums du 13/02/23        13
+L6: Première loi sur le maintien de l’ordre        13
+D15: délais entre PC pour chaque citoyens        13
+T4: Union entre RPD et les Champs du Soleil (région)        14
+D16: formation des citoyens        14
+Résultats des référendums du 20/02/23        14
+T5: candidature à la MNU        14
+T6: revendication territoriale de Rochetaillé        15
+Résultats des référendums du 27/02/23        15
+D17: Définitions et objectifs de la RPD        15
+CC1: commission pour la loi extraterritorial pour défendre nos citoyens à l’étranger        15
+T7: traité de reconnaissance avec Fiera        15
+T8: candidature à l’OMF        16
+Résultats de la procédure accélérée du 28/02/23        16
+CA2/NDA1 : Demande d’excuse de la part de Stephan Rottmann envers l’Ambassade        16
+Résultats des référendums du 06/03/23        16
+L7 : loi sur le droit de vote des citoyens non-humain        16
+D18 : création du rôle “notification citoyenne”        17
+T9 : traité de reconnaissance avec Duché de Simerya        17
+Résultats des référendums du 20/03/23        17
+D19: déclaration de l'ambassadeur en terre inconnue pour revendiquer le sérieux de la République        17
+CC2 : pour une loi contre les comportement passifs-agressifs        18
+D20: Contrôle du pouvoir des orgnas        18
+D21: distinction entre avocat volontaire et de métier        18
+Résultats des Référendums du 27/03/23        19
+T10 : engagement à l’OMF        19
+L8 : requis à l'exercice des fonctions de magistrat        19
+D22: gestion des PC ne s’excluant pas        20
+D23: politique de la promotion de la RPD à l’étranger        20
+T11: traité de reconnaissance avec le Jaïlavera        21
+Résultats de la procédure de vote accélérée du 30/03/23        21
+L9: loi extraterritoriale contre les violences subies        21
+Résultats des référendums du 24/04/23        21
+D24: Ajout du serveur sur top.gg        21
+CC3: sur l’histoire de la République        22
+Résultats des référendums du 04/05/23        23
+D25 / CC4: description de la procédure de démocratie liquide        23
+D26: mise en place de webhooks        24
+D26,5 / CC5 : sur la  loi relative à l'ingérence étrangère        24
+D27 / NDA2 : politique de nomination d’ambassadeurs spécifiques        25
+Résultats des référendums du 08/05/23        26
+D28: modalité de rédaction du code civil        26
+D29: changement de nom de domaine        26
+Résultats des référendums du 17/05/23        26
+D30: visibilité des salons gouvernementaux        26
+D31: obligation de présence du rédacteur de la PC        27
+RC2:        27
+Résultats des référendums du 25/05/23        28
+D32 / ML2: deuxième loi sur la visibilité des salons gouvernementaux        28
+CC6: pour la simplification des réformes citoyennes        29
+D32 / ML3: délivrance de rôle citoyen        29
+Elections du 25/05/23        30
+Résultats de la procédure de vote accélérée du 25/05/23        30
+T12: Union entre RPD et RPDB        30
+Résultats des référendums du 31/05/2023        30
+D33/ML4 : identification groupé des PC        30
+—--------------------------------------------------------------------------------        31
+Résultats du référendum du 19/06/2023        31
+D34 : Identité des policiers        31
+Résultat du Référendum de la Procédure de Vote Accélérée du 19/06/2023        31
+L10 : la loi sur l'organisation discord        31
+Résultat du Référendum de la Procédure de Vote Accélérée : 23/06/2023        31
+ML5 : Modifications de “la garde civil” en “police republicaines”        31
+Résultats du référendum du 26/06/2023        32
+D35 : Modifications du nom de la micronations        32
+L11 /ML6 : Texte de loi sur les travaux magistraux        32
+D36 : Faut-il mettre à la poubelle les propositions citoyennes négatives de la PVD ?        33
+Resultats des referundums du 03/07/2023        33
+L12 : Le texte de loi première sur les limites relatives au domaine de compétence de la magistrature doit-elle adoptée ?        33
+CC7 : Pour l’organisation d’un tournois d’esport Micro nationale        34
+CC8 : Pour lister les loisirs organisables par la RPD        34
+
+
+Introduction 
+Selon l’Article deux (II), alinéas 3 de la Constitution : “Une proposition citoyenne peut être un projet de loi plus ou moins abouti ; un projet de modification d’une loi existante ; l’abrogation d’une loi existante ; un sujet de délibération ; une demande de révocation (II-11) ; une demande d’ajournement (II-12) ; un projet de création ou de dissolution d’ambassade (VI-3) ; un projet de traité (VI-5) ; une demande de délégation de l’ambassade (VI-7) ; une proposition de création de commission (VIII-5) ; une proposition de dissolution de commission (VIII-7) ; une proposition de réforme constitutionnelle (IX-1) ; ou une demande d’abolition constitutionnelle (IX-2). 
+Par conséquent,  les proposition validé seront nommée par les abréviation suivante[a] : L pour loi[b] ; ML pour modification d’une loi [c]existante ; AL pour l’abrogation d’une loi existante ; D pour une délibération ; R pour une révocation de fonctionnaire ; Aj pour un ajournement ; CA pour une création d’ambassade; DA pour une dissolution d’ambassade ; T pour un traité; NDA pour une délégation de l’ambassade; CC pour une création de commission ; DC pour une dissolution de commission ; RC pour une réforme constitutionnelle ; ou AC pour une abolition constitutionnelle.
+        En cas d’erreur, vous avez 4 jours à partir du jour de publication ou de re-publication pour la manifester. Les erreurs de numérotation seront rectifiées par des nombres à virgules.
+Période Républico-populaire
+Première Constitution
+https://docs.google.com/document/d/1qBbN03kcRAcsEYjo3_p51cOzaLZYi5py4NQ_xCOoi7g/edit?usp=sharing
+L1: loi de transparence
+La loi de transparence déposée par le citoyen Scire#1909 a été approuvée par 88% des suffrages exprimées.
+Les trois magistrats l'ayant déclarée conforme à la constitution du 09/01/2022, elle prend donc effet en cet instant.
+Les @👻 | Orgnaisateur sont donc priés d'ouvrir les salons gouvernementaux au citoyens dans les plus brefs délais.
+  
+
+L2: Loi sur les fêtes régionales et départementales
+Suite à un accord commun des 3 magistrats, nous déclarons conforme à la constitution la loi de @Deleted User concernant les fêtes régionales et départementales.
+Une capture d'écran de la loi ci-dessous.
+La mise en place de cette loi se fera sous peu.
+Cordialement, la magistrature.
+  
+
+L3: loi sur la laïcité
+La loi sur la laïcité déposée par le citoyen プリンス#7939 a été approuvée par 86,7% des suffrages exprimées.
+Les trois magistrats l'ayant déclarée conforme à la constitution du 09/01/2022, elle prend donc effet en cet instant.
+  
+
+Loi 3.1: Loi sur la police (désuet / incompatible)
+Loi explicitant le rôle de la police
+Période Républico-participative
+Résultats des référendums du 29/11/22
+D1: octroie manuel de la citoyenneté
+Souhaitez vous que le rôle de Citoyen soit octroyé sur le serveur de façon manuelle ?
+Réponse 1) Manuellement (administration) = Moyenne de 3,6 sur 5
+Réponse 2) Manuellement (administration + Etat civil) =  Moyenne 3,5 sur 5
+Réponse 3) Ni l'un ni l'autre = Moyenne 2,9 sur 5
+La Réponse 1 est retenue et devra être appliquée.
+ 
+D2: emoji saucisse végétale
+Souhaitez vous promouvoir la Saucisse végétale comme moyen d'alimentation ?
+Réponse : Créer un émoji saucisse végétale = Moyenne de 3,1 sur 5
+La Réponse est retenue est devra être appliquée.
+L3.5 : Loi relatif au déroulement d’un procès
+Validez-vous cette loi comme texte définissant le déroulement d'un procès au sein de la RPD ?
+Réponse : https://docs.google.com/document/d/1Kkyikdvieub9pb93FymMKL2sym9NVNyqmliol60Nqqo/edit?usp=sharing=      Moyenne de 3,7 sur 5
+La Réponse est retenue et devra être appliquée
+ 
+Résultat des référendums du 13/12/22
+ML1: Modification loi organique sur le territoire et la subdivision administrative 
+Souhaitez-vous que soit modifiée la loi organique sur le territoire et la subdivision administrative ?
+Réponse 1) Cette modification doit être appliquée = Moyenne de 3,62 sur 5
+Réponse 2) Il faut encore d'autres modifications = Moyenne 3,58 de sur 5
+La Réponse 1 est retenue et doit être appliquée
+ 
+D3 : Intégration à l’ACTL
+Souhaitez-vous que la République du Dibistan intègre l'Association Coopérative des Territoires Libres?
+Réponse 1) La RPD doit rejoindre l'ACTL = Moyenne de 4,07 sur 5
+Réponse 2) La RPD devrait rejoindre une autre organisation = Moyenne de 3,57 sur 5
+La Réponse 1 est retenue et doit être appliquée
+ 
+Résultats des référendums du 21/12/22
+D4: visibilité de la PVD
+Comment donner une meilleur visibilité à la PVD ?
+Réponse 1) En réalisant une présentation du site de la République et de comment fonctionne la PVD. = Moyenne de 4,16 sur 5
+Réponse 2) En rédigeant un cahier des charges en proposition citoyenne des moyens permettant à l'ensemble des citoyens de comprendre et d'avoir un accès simple à la PVD. = Moyenne 3,42 sur 5
+Réponse 3) En ajoutant le lien avec une explication dans annonces. = Moyenne 4,42 sur 5
+Réponse 4) En faisant plus que ce qui est proposé. = Moyenne 3,16 sur 5 https://docs.google.com/document/d/1wZx7afhpONRNCfPIB88rp9Ha2ceyQT__nWB9lypRzM/edit?usp=sharing  
+TOUTES les Réponses sont acceptées.
+ 
+L4 / ML2: loi sur la laïcité
+Souhaitez-vous adopter cette loi sur la laïcité ?
+https://docs.google.com/document/d/1OktzjlStWXWKAvVAe5zPpXkI9ZcEnlTgJzTp_XUuCKk/edit?usp=sharing
+Réponse 1) oui = Moyenne de 3,85 sur 5
+Réponse 2) oui mais il faut des modifications = Moyenne de 3 sur 5
+Réponse 3) non = Moyenne de  1,83 sur 5
+La Réponse 1 est retenue, la loi est appliquée
+ 
+Résultats du référendum du 09/01/23
+CA1: Ambassade du serveur
+Quelle solution à apporter pour les relations entre le serveur et l'Etat ?
+Réponse 1 ) Créer une ambassade en nommant un ambassadeur (orgna ?) pour représenter le serveur et création d’une commission = 3,6 sur 5
+Réponse 2 ) Pas d’ambassade mais juste une commission = 2,7 sur 5
+Réponse 3 ) Créer un nouveau rôle spécifique au serveur = 2,3 sur 5
+Réponse 4) Pas de création d’ambassade ni de commission = 2,1 sur 5
+La réponse 1 est retenue, un ambassadeur sera élit la semaine prochaine, vous pouvez candidater dans le fil en dessous, une commission est également ouverte !
+ 
+Résultats des Référendums du 16/01/23
+D5: catégorisation des PC
+Quel classement des lois doit-on suivre ?
+Réponse 1 ) L'utilisateur définie la catégorie auquel sa PC appartient, ainsi que de la sous catégorie et de son sujet. = Moyenne de 3,8 sur 5
+Réponse 2 ) Le secrétariat générale définie la catégorie auquel sa PC appartient, ainsi que de la sous catégorie et de son sujet. = Moyenne de 2,6 sur 5
+Réponse 3 ) Le secrétariat générale par défaut sinon l'utilisateur définie la catégorie auquel sa PC appartient, ainsi que de la sous catégorie et de son sujet. = Moyenne de 4 sur 5
+Réponse 4) On n'effectue aucun classement. = Moyenne de 2 sur 5
+Réponse 5 ) On effectue un classement a postériorie de sa validation sans contrainte de délais ou de temps  = Moyenne de 3,4 sur 5
+La Réponse numéro 3 l'emporte, les citoyens classifient leur proposition citoyenne, et le secrétariat général complète.
+ 
+D6: visibilité des lois sur le site
+Quel regroupement des lois faut t-il appliquer ?
+Réponse 1 ) Le placer sur le site de la RPD ( https://rpd.dirtybiologistan.com/ ) dans l'onglet "Constitution & Justice" et le modifier en "Constitution & Normes". = Moyenne de 5 sur 5.
+Réponse 2 ) Le placer sur un autre site web qui serait a définir. = Moyenne de 1,2 sur 5.
+Réponse 3 ) Placer les données sur un autre site web et afficher les données dans l'onglet  "Constitution & Justice" et le modifier en "Constitution & Normes". = Moyenne de 2,2 sur 5.
+La Réponse 1 est retenue, le regroupement des lois se fait sur la PVD dans un onglet Constitution et Normes.
+ 
+D7: mise en place de système de comunication
+Quel système de communication plus performant peut t-on adopter ?
+Réponse 1 ) Créer un salon (annonce) "News et update du gouvernement" qui comprendrait :\n\n- un message épinglé avec : un lien permanent du liens internet de la PVD (site de wolfomir), le site referencement serveurs de sylicium et un organigramme de la structure du gouvernement.\n\n- les annonces des différentes propositions citoyennes crées et/ou en débat chaque semaine ; annonces crées par une personne chargé spécialement de la communication.\n\ncela entrainera une modification de la loi organique sur les salons de la RPD et leurs usages. = Moyenne de 3,2 sur 5.
+Réponse 2 ) Créer un salon (annonce) "News et update du gouvernement" qui comprendrait un bot qui publierai toute les heures : \n\n- un lien permanent du liens internet de la PVD (site de wolfomir), le site referencement serveurs de sylicium et un organigramme de la structure du gouvernement.\n\n- les annonces des différentes propositions citoyennes crées et/ou en débat chaque semaine.\n\ncela entrainera une modification de la loi organique sur les salons de la RPD et leurs usages. = Moyenne de 1 sur 5.
+La Réponse 1 est retenue, les liens et annonces de la RPD seront regroupés dans un seul salon.
+ 
+Seconde Constitution (mise à jour du 20/01/23)
+Constitution de la République du Dibistan : https://docs.google.com/document/d/1As2-iO2VxoekZnwSZGYJUbWbGMYA99ybMYJf3sbtc8w/edit?usp=sharing
+ 
+Résultats des Référendums du 24/01/23
+RC1: premier assouplissement constitutionnel
+Devons nous créer une commission pour réformer la constitution en la rendant moins rigide ?
+Réponse 1) Une commission doit être créer pour rendre la constitution moins rigide. = Moyenne de 3,8 sur 5
+Le référendum est validé, une commission est ouverte dans le fil en dessous de l'annonce.
+ 
+D8: Signature des PC
+Faut-il afficher les noms de ceux qui déposent une proposition citoyenne ?
+Réponse 1) Les noms des proposants sont affichés. = Moyenne de 2,8 sur 5
+Réponse 2) Les noms sont affichés, de plus une proposition est supprimée si son auteur ne peut être identifié. = Moyenne de 4 sur 5
+La Réponse 2 est retenue, les noms des proposants doivent désormais être affichés, les propositions non-identifiables supprimées.
+ 
+D9: espace forum sur la PVD
+Doit-il être ajouter un espace forum de débat à côté des propositions citoyennes ?
+Réponse 1) Il faut un espace forum rapidement. = Moyenne 2,5 sur 5
+Réponse 2 ) Il faut un espace forum mais ce n'est pas la priorité. = Moyenne de 3,6 sur 5
+ 
+T1: union entre RPD et Grand Sud (région)
+Le Grand Sud doit-il être uni à la République ?
+Réponse 1) L'union du Grand Sud à la République est acceptée. Pour que cela soit réalisé, un traité doit être rédigé par l'ambassadeur de la RPD et leur ambassadeur. = Moyenne de 4,5 sur 5
+Réponse 2 ) L'union du Grand Sud à la République est acceptée. Pour que cela soit réalisé, un ambassadeur est élu spécifiquement pour rédiger le traiter d'intégration avec leur ambassadeur. = Moyenne de 2,3 sur 5
+La Réponse 1 l'emporte, l'ambassadeur actuel @Ornithorynque du Tartajou est demandé par les citoyens de la République à signer un traité avec le Grand Sud.
+ 
+D10: Drapeau
+Adoptons-nous le "vert, bleu, rouge" comme drapeau de la République ?
+Réponse 1) Le drapeau est adopté par la République.  = Moyenne de 3,7 sur 5
+Réponse 2 ) Il vaut mieux organiser un concours pour désigner un meilleur drapeau. = Moyenne de 1,5 sur 5
+Réponse 3 ) Le drapeau est adopté par intérim, le temps d'organiser un concours. = Moyenne de 3,1 sur 5
+La Réponse 1 est retenue, le "vert, bleu, rouge" est adopté comme drapeau officiel de la République.
+ 
+Résultats des Référendums du 30/01/23
+T2: reconnaissance du Poteau Rose
+La République reconnait-elle la présence du Poteau Rose comme Etat au sein du Dibistan ?
+Réponse 1) La République reconnait le Poteau Rose. = Moyenne de 4,1 sur 5.
+La République reconnait le Poteau Rose au sein du Dibistan.
+ 
+T3: reconnaissance de la Crisardie
+La République doit-elle s'engager pour reconnaitre la Crisardie en tant que Micronation ?
+Réponse 1) La République s'engage à envoyer sont actuel ambassadeur des terres inconnues. = Moyenne de 5 sur 5.
+Réponse 2) La République s'engage à nommer un nouvel ambassadeur pour reconnaitre la Crisardie. = Moyenne de 2,1 sur 5.
+La Réponse 1) est retenue, @WolfoMir 🌹🚩🦔 est envoyé en Crisardie pour signer un traité avec son représentant.
+ 
+D11: identification des PC
+Faut-il que chaque proposition citoyenne soit doté d'un numéro pour l'identifier ?
+Réponse 1) Toutes les propositions citoyennes doivent-être dotées d'une ID. = Moyenne de 4,5 sur 5.
+Les propositions citoyennes devront désormais être dotées toutes d'une ID.
+ 
+L5: loi anti-fraude sur la PVD
+Comment faut-il sanctionner les citoyens fraudant la PVD ?
+Réponse 1) Des preuves sont apportées, si elles sont juste le second compte doit être supprimé de la PVD et des excuses doivent être apportées dans les 2 semaines en quel cas le coupable est ban IP de la République pour une durée d'1 mois. = Moyenne de 3,7 sur 5.
+La fraude est désormais sanctionnée par cette loi.
+ 
+Résultats des Référendums du 06/02/23
+D12; politique de développement de l’aspect communautaire 
+Comment encourager les citoyens à s'investir dans la République ?
+Réponse 1)  Développer un aspect communautaire autour de la politique : activités, lore, jeux etc. = Moyenne de 4,8 sur 5.
+ 
+D13: recueil des adresses des citoyens
+Devons nous recueillir les adresses des citoyens pour diminuer l'abstention ?
+Réponse 1) Il faut envoyer des courriels aux citoyens afin de les prévenir des votes en cours. = Moyenne de 4,2 sur 5
+ 
+D14: hommage aux Djiboutans
+Les citoyens de la République doivent-ils faire un hommage au Djiboutan ?
+Réponse 1) Une minute de silence est organisée à la prochaine réunion de l'assemblée Ecclésienne. = Moyenne de 3,4 sur 5
+ 
+Résultats des référendums du 13/02/23
+L6: Première loi sur le maintien de l’ordre
+De quelle manière la République met-elle en place une modération sur son territoire ?
+ Réponse 1) Police de Métier : https://docs.google.com/document/d/1p6Sk-CUz_EO_3gMm2IqffzQkgulrUrl0_oWiyKx2Ya8/edit?usp=sharing  = Moyenne de 3,5 sur 5.
+Réponse 2) Service Civique : https://docs.google.com/document/d/102sXCobrXp5kWZcVdjuzTJZ7Rg6wlvNgTWTjRKHfy6c/edit?usp=sharing  = Moyenne de 3,3 sur 5.
+La Réponse 1 est retenue, la Police de Métier est mise en place.
+ 
+D15: délais entre PC pour chaque citoyens
+Faut-il instaurer un délai de propositions citoyennes pour chaque citoyen sur la PVD ?
+Réponse 1) En permettant de déposer une seule proposition citoyenne par heure. = Moyenne de 2,5 sur 5.
+Réponse 2) En permettant de déposer uniquement 3 propositions citoyennes par heure. = Moyenne 3,7 sur 5
+Réponse 3) En mettant en place un système de glissement : Chaque citoyen peut déposer maximum 7 propositions citoyennes, pour chacune il doit attendre une semaine avant d'en reposer une autre. = Moyenne 2,7 sur 5
+La Réponse 2 est retenue, le nombre de propositions citoyennes par personne est limitée à 3 par heure.
+ 
+T4: Union entre RPD et les Champs du Soleil (région)
+Un ambassadeur doit-il être envoyé aux Champs du Soleil pour négocier un traité instaurant la région comme dominion de la République ?
+Réponse 1) La République envoie son actuel ambassadeur du Dibistan pour négocier le traité avec les représentants des Champs du Soleil. = Moyenne de 4.4 sur 5.
+Réponse 2) La République élit un ambassadeur spécifiquement pour négocier le traité avec les représentants des Champs du Soleil. = Moyenne de 1.8 sur 5
+La Réponse 1 est retenue, la République envoie son actuel ambassadeur aux Champs du Soleil.
+ 
+D16: formation des citoyens
+Quels moyens mettre en place pour former les citoyens de la République ?
+Réponse 1) Créer des vidéos courtes et faciles à comprendre instruisant sur l'histoire et le fonctionnement de la République, et par extension sur différents aspects de la société Dibistanaise comme sa langue et ses cultures régionales. = Moyenne 4.2 sur 5
+Réponse 2) Fonder, sur le serveur de la Commission de Communication, un projet collaboratif faisant le point sur les différents besoins que la République au sujet de la formation de ses citoyens à la compréhension et à l'utilisation des ses institutions, et mettant en place les solutions de manière organisée. = Moyenne 3.4 sur 5
+ 
+Résultats des référendums du 20/02/23
+T5: candidature à la MNU
+Doit-on candidater auprès de l'MNU ?
+ Réponse 1) L'ambassadeur dépose une candidature de la RPD auprès de l'MNU. = Moyenne de 4.13 sur 5.
+La réponse est retenue, l'ambassadeur @WolfoMir 🌹🚩🦔 déposera la candidature de la RPD auprès de l'MNU.
+ 
+T6: revendication territoriale de Rochetaillé
+Doit-on revendiquer un territoire physique qui nous permettrait d'intégrer l'OMF ?
+Réponse 1) La RPD revendique symboliquement le château de Rochetaillé comme ambassade de la RPD dans le monde physique. = Moyenne de 3.88 sur 5.
+La réponse est retenue, la RPD revendique symboliquement le château de Rochetaillé comme son ambassade dans le monde physique.
+ 
+Résultats des référendums du 27/02/23
+D17: Définitions et objectifs de la RPD
+Doit-il être rédigé une déclaration exprimant les objectifs de la République ?
+1) On reprend les déclarations du préambule de la Constitution.  = Moyenne de 4.34 sur 5.
+2) On ajoute des objectifs supplémentaires aux déclarations du préambule de la Constitution. = Moyenne de 3.58 sur 5.
+La Réponse 1 est retenue, la déclaration du préambule de la constitution reprit pour exprimer les objectifs de la République.
+ 
+CC1: commission pour la loi extraterritorial pour défendre nos citoyens à l’étranger
+Doit-on rédiger une loi extraterritoriale pour défendre nos citoyens à l'étranger ?
+1) Un texte de loi devra être rédigé. = Moyenne de 4.88 sur 5.
+La Réponse est retenue.
+ 
+T7: traité de reconnaissance avec Fiera
+Les citoyens approuvent-ils le traité de reconnaissance mutuel avec la République de Fiera  ?
+1) Les citoyens approuvent le traité actuel. = Moyenne de 2.5 sur 5.
+2) Les citoyens attendent un nouveau traité avec le nouveau régime. = Moyenne de 3 sur 5.
+La Réponse 2 est retenu, les citoyens attendent un nouveau traité avec le nouveau régime de Fiera.
+ 
+T8: candidature à l’OMF
+Doit-on candidater pour rejoindre l'OMF ?
+1 )  La RPD candidate auprès de l'Organisation de la Microfracophonie. = Moyenne de 3.88 sur 5.
+La Réponse est retenue.
+ 
+Résultats de la procédure accélérée du 28/02/23
+CA2/NDA1 : Demande d’excuse de la part de Stephan Rottmann envers l’Ambassade
+1) Une Ambassade est ouverte à Fiera et un nouvel ambassadeur sera élu. = Moyenne de 2,8 sur 5.
+2) La République demande des excuses de la part de Stephan ROTTMANN envers l'Ambassadeur.  = Moyenne de 4,5 sur 5.
+3) La République demande des excuses de la part du gouvernement de Fiera envers l'Ambassadeur. = Moyenne de 2,4 sur 5.
+La Réponse 2 l'emporte, la République demande des excuses de la part de Stephan Rottmann envers l'ambassadeur.
+ 
+Résultats des référendums du 06/03/23
+L7 : loi sur le droit de vote des citoyens non-humain
+Faut-il réaffirmer que les animaux n'ont pas le droit de vote ?
+1) Le droit de vote des êtres individus non-humain est prohibé. = Moyenne de 2.75 sur 5.
+2) Accorder à la vie non-humaine dans sa généralité le droit à la citoyenneté au sein de la RPD, avec un droit de vote prohibé. = Moyenne de 4.38 sur 5.
+La Réponse 2 est retenue, la vie non-humaine peut jouir de la citoyenneté, mais elle ne peut bénéficier du droit de vote
+ 
+D18 : création du rôle “notification citoyenne”
+Faut-il créer un rôle supplémentaire pour notifier les citoyens dans les salons débats ?
+1) On créer un nouveau rôle pour les débats citoyens, et un autre pour les annonces des ambassadeurs.  = Moyenne 2.88 sur 5.
+2) On remplace le projet de rôle citoyen par un rôle "notification citoyenne", et on créer un rôle pour les annonces de ambassadeurs. = Moyenne 4.25 sur 5.
+La Réponse 2 est retenue, le projet de rôle citoyen est remplacé par "notification citoyenne"
+ 
+T9 : traité de reconnaissance avec Duché de Simerya
+Les citoyens valident-ils le traité de reconnaissance avec Duché de Simerya ?
+1) Le traité de reconnaissance avec le Duché de Simerya est validé. = Moyenne de 4.88 sur 5.
+Le pour l'emporte, le traité est accepté.
+ 
+Résultats des référendums du 20/03/23
+D19: déclaration de l'ambassadeur en terre inconnue pour revendiquer le sérieux de la République
+Une déclaration doit-elle être publiée par l'ambassadeur en terre inconnue pour revendiquer le sérieux de la République ?
+1) La déclaration suivante, rédigée par l'ambassadeur, doit-être publiée :
+https://docs.google.com/document/d/11kzclUVA3vf2Wr9osmwb_vF5vAfcndVZeRnbwZXnlJ8/edit?usp=sharing :
+- Somme des votes : 33/35
+- Votes exprimés : 7/32
+- Moyenne arrondie : 4.88/5.
+La réponse 1 est retenue, la déclaration sera publiée
+ 
+
+
+CC2 : pour une loi contre les comportement passifs-agressifs
+Faut-il rédiger une loi pour lutter contre les comportements passifs-agressifs au sein de la République ?
+1) Une commission est ouverte pour rédiger une loi :
+- Somme des votes : 25/35
+- Votes exprimés : 7/32
+- Moyenne arrondie : 3.58/5.
+La réponse 1 est retenue, une commission sera ouverte pour rédiger cette loi.
+ 
+D20: Contrôle du pouvoir des orgnas
+Comment les pouvoirs de l'État et des orgnas doivent-ils être délimités ?
+1) Le titre VII de la Constitution sur l'administration est réaffirmé pour délimiter les pouvoirs de l'État et des orgnas :
+- Somme des votes : 30/35
+- Votes exprimés : 7/32
+- Moyenne arrondie : 4.29/5
+La réponse 1 est retenue, le titre VII de la Constitution sur l'administration sera réaffirmé.
+ 
+D21: distinction entre avocat volontaire et de métier
+Faut-il établir une distinction entre les avocats de métier et les avocats volontaires ?
+1) Une distinction est établie entre les avocats de métier et les avocats volontaires :
+- Somme des votes : 22/30
+- Votes exprimés : 6/32
+- Moyenne arrondie : 3.67/5
+La réponse 1 est retenue, une distinction sera établie entre les avocats de métier et les avocats volontaires.
+ 
+Résultats des Référendums du 27/03/23
+T10 : engagement à l’OMF
+À quel niveau la RPD souhaite s'investir auprès de l'OMF en temps qu'organisation (sur le plan physique et logistique) ?
+ 1) La RPD s'engage à participer aux assemblées générales de l'OMF.
+-Votants exprimé : 8
+-Moyenne arondis : 4/5
+2) La RPD s'engage à participer aux assemblées générales de l'OMF et se propose pour aider à la mise en place d'un sommet intermicronational en présentiel (France).
+-Votants exprimé : 8
+-Moyenne arondis : 4.13/5
+La Réponse 2 est retenue.
+ 
+L8 : requis à l'exercice des fonctions de magistrat
+Comment seront gérées les candidures des futur.e.s magistrat.e.s à l'avenir ?
+1) Les candidatures des futur.e.s magistrat.e.s seront soumises à un test afin de s'assurer de leurs compétences (modalités de ce dernier définies par le secrétariat général).
+-Votants exprimé : 8
+-Moyenne arondis : 3.88/5
+2) Les candidatures des futur.e.s magistrat.e.s seront soumises à un test afin de s'assurer de leurs compétences (modalités de ce dernier définies lors d'une prochaine PC lorsque des idées de tests seront proposées).
+-Votants exprimé : 8
+-Moyenne arondis : 3.75
+3) Les candidatures des futur.e.s magistrat.e.s ne seront pas soumises à un test (aucuns changements).
+-Votants exprimé : 8
+-Moyenne arondis : 1.5
+La Réponse 1 est retenue.
+-
+D22: gestion des PC ne s’excluant pas
+Comment sont traitées les réponses à une PC ne s'excluant pas ?
+ 1) La réponse à une PC ayant reçue la meilleure moyenne supérieure ou égale à 3/5 est retenue ainsi que toutes les autres dans le même cas n'allant pas en contradiction avec la première.
+-Votants exprimé : 5
+-Moyenne arondis : 3.6/5
+2) Si plusieurs réponses ne s'excluant pas ressortent d'une PC lors des débats, alors acte est pris de la diviser en plusieurs PC (et donc votes) afin de rendre la chose plus claire.
+-Votants exprimé : 7
+-Moyenne arondis : 4/5
+La Réponse 2 est retenue.
+ 
+D23: politique de la promotion de la RPD à l’étranger
+Comment va-t-on promouvoir la RPD à l'étranger et sur internet ?
+1) Création d'un PowerPoint afin de promouvoir la RPD à l'étranger et sur internet.
+-Votants exprimé : 8
+-Moyenne arondis : 4.63/5
+2) Création d'un kahoot afin de promouvoir la RPD à l'étranger et sur internet.
+-Votants exprimé : 8
+-Moyenne arondis : 3.38
+3) Création d'une vidéo afin de promouvoir la RPD à l'étranger et sur internet.
+-Votants exprimé : 7
+-Moyenne arondis : 4.72
+Toutes les réponses sont retenues.
+ 
+T11: traité de reconnaissance avec le Jaïlavera
+La RPD approuve-t-elle le traité de reconnaissance bilatéral avec la République de Jaïlavera ?
+1)  La RPD approuve le traité de reconnaissance bilatéral avec la République de Jaïlavera.
+-Votants exprimé : 8
+-Moyenne arondis : 4.38
+La réponse est retenue.
+ 
+Résultats de la procédure de vote accélérée du 30/03/23
+L9: loi extraterritoriale contre les violences subies
+Acceptez-vous la loi extraterritoriale contre les violences subies ?
+Réponse : La loi est acceptée
+Moyenne : 4,5 sur 5
+La loi est acceptée : https://docs.google.com/document/d/1s_uJCnRdb-F7Ay7JTIh7cVw5YH81qqksmVq0Tj0xkAs/edit?usp=sharing
+ 
+Résultats des référendums du 24/04/23
+D24: Ajout du serveur sur top.gg
+n°1671 : Souhaitez-vous ajouter le serveur sur top.gg ?
+1) Le serveur est ajouté sur top.gg :
+Somme des votes : 40/45
+Votes exprimés : 9/32
+Moyenne arrondie : 4.45/5.
+La réponse 1 est retenue, le serveur sera ajouté sur top.gg.
+ 
+CC3: sur l’histoire de la République
+n°1672 : Doit-on établir une commission relative à l'histoire de la République ? Et si oui sous quelle forme et quelle durée ?
+1) Une commission relative à l'histoire de la République, mendatée pour retracer l'histoire du 1er novembre 2021 à l'instauration de la comission, est établie :
+Somme des votes : 43/45
+Votes exprimés : 9/32
+Moyenne arrondie : 4.78/5.
+2) La comission peut être renouvelée par une proposition citoyenne :
+Somme des votes : 31/45
+Votes exprimés : 9/32
+Moyenne arrondie : 3.45/5.
+3) La comission peut être renouvelée par simple vote de la comission elle-même :
+Somme des votes : 27/45
+Votes exprimés : 9/32
+Moyenne arrondie : 3/5.
+4) La comission est renouvelée automatiquement tous les 6 mois pour mettre à jour l'historiographie :
+Somme des votes : 29/45
+Votes exprimés : 9/32
+Moyenne arrondie : 3.23/5.
+5) La comission est renouvelée automatiquement tous les ans pour mettre à jour l'historiographie :
+Somme des votes : 30/45
+Votes exprimés : 9/32
+Moyenne arrondie : 3.34/5.
+Les réponses 1, 2, 3 et 5 sont retenues, une comission sera créée, pourra être renouvelée par une PC ou vote de la comission elle-même. Elle sera également renouvelée automatiquement tous les ans.
+ 
+Résultats des référendums du 04/05/23
+D25 / CC4: description de la procédure de démocratie liquide
+n°1807 : Comment décrit-on la procédure de démocratie liquide demandée par la Constitution ?
+1) On met en place une commission pour rédiger un projet de loi. :
+Somme des votes : 15/25
+Votes exprimés : 5/32
+Moyenne arrondie : 3/5.
+2) On demande à Taog de rédiger un projet de loi. :
+Somme des votes : 19/25
+Votes exprimés : 5/32
+Moyenne arrondie : 3.8/5.
+3) On demande à WolfoMir de rédiger un projet de loi. :
+Somme des votes : 19/25
+Votes exprimés : 5/32
+Moyenne arrondie : 3.8/5.
+4) On ne fait rien. :
+Somme des votes : 8/25
+Votes exprimés : 5/32
+Moyenne arrondie : 1.6/5.
+Les réponses 2 et 3 sont retenues, WolfoMir et Taog rédigeront le projet de loi ensemble.
+ 
+D26: mise en place de webhooks
+n°1808 : Comment met-on en place les webhooks sur le site pour publier les nouvelles PC sur tout les seveurs ajoutant le webhook ?
+1) On ajoute ceci à la TO-DO list des devs :
+Somme des votes : 24/25
+Votes exprimés : 5/32
+Moyenne arrondie : 4.8/5.
+2) Les serveurs officiels de la RPD devrons avoir après développement le webhook de la RPD :
+Somme des votes : 21/45
+Votes exprimés : 5/32
+Moyenne arrondie : 4.2/5.
+Les réponses 1 et 2 sont retenues, la tâche est ajoutée à la TO-DO list des devs, puis une fois réalisé, le webhook devra être présent sur tout les serveurs officiels de la RPD.
+ 
+D26,5 / CC5 : sur la  loi relative à l'ingérence étrangère
+n°1809 : Comment rédige-on une proposition de loi relative à l'ingérence étrangère ?
+1) On met en place une commission pour rédiger un projet de loi :
+Somme des votes : 11/25
+Votes exprimés : 5/32
+Moyenne arrondie : 2.21/5.
+2) On demande à Taog de rédiger un projet de loi :
+Somme des votes : 17/25
+Votes exprimés : 5/32
+Moyenne arrondie : 3.4/5.
+3) On doit définir clairement, avant toute application de projet de loi de ce type, l'ingérence et les droits de vote des multi-nationaux ainsi que de leur peine :
+Somme des votes : 24/25
+Votes exprimés : 5/32
+Moyenne arrondie : 4.8/5.
+4) On ne fait rien :
+Somme des votes : 5/25
+Votes exprimés : 5/32
+Moyenne arrondie : 1/5.
+La réponse 3 est retenue, une définition claire de l'ingérence et des droits de vote des multi-nationaux ainsi que de leur peine avant toute application de projet de loi de ce type.
+ 
+D27 / NDA2 : politique de nomination d’ambassadeurs spécifiques
+n°1810 : Quelle vision stratégique de la RPD sur la nomination d'ambassadeurs spécifiques à des entités extérieures ?
+1) La RPD s'axe vers une vision stratégique de nomination des ambassadeurs quand les relations sont très bonnes :
+Somme des votes : 19/25
+Votes exprimés : 5/32
+Moyenne arrondie : 3.8/5.
+2) La RPD s'axe vers une vision stratégique de nomination des ambassadeurs quand les relations sont très mauvaises :
+Somme des votes : 11/25
+Votes exprimés : 5/32
+Moyenne arrondie : 2.21/5.
+3) La RPD s'axe vers une vision stratégique double :
+Somme des votes : 16/25
+Votes exprimés : 5/32
+Moyenne arrondie : 3.2/5.
+La réponse 1 est retenue, la RPD s'axe vers une vision stratégique de nomination des ambassadeurs quand les relations sont très bonnes.
+Résultats des référendums du 08/05/23
+D28: modalité de rédaction du code civil
+PC n°1892 : Quelles sont les modalités pour l'écriture d'un code civil de la RPD ?
+1) Les magistrats doivent publier un code civil de la RPD avec une bonne présentation de manière mensuelle (pas au jour près) :
+Somme des votes : 32/40
+Votes exprimés : 8/32
+Moyenne arrondie : 4/5.
+La réponse 1 est retenue, Les magistrats publieront un code civil de la RPD avec une bonne présentation de manière mensuelle (pas au jour près).
+ 
+D29: changement de nom de domaine
+PC n°1893 : Devons-nous changer le nom de domaine du site de la RPD ?
+1) Le changement du nom de domaine à "https://rpd.dibistan.org/" est planifié :
+Somme des votes : 37/40
+Votes exprimés : 8/32
+Moyenne arrondie : 4.63/5.
+La réponse 1 est retenue, le changement du nom de domaine est planifié.
+ 
+Résultats des référendums du 17/05/23
+ D30: visibilité des salons gouvernementaux
+Devons-nous cacher les salons relatifs au gouvernement sauf aux citoyens ?
+1 ) On ne change rien
+Somme des votes : 13
+Votants exprimé : 5
+Moyenne arrondis : 2.6/5
+2 ) On rend le salon uniquement visible aux détenteurs des rôles "Citoyen.ne" et "Représentant étranger"
+Somme des votes : 17
+Votants exprimé : 5
+Moyenne arrondis : 3.4/5
+La réponse 2 est retenue, les salons doivent désormais être cachés aux étrangers exceptés les représentants.
+ 
+D31: obligation de présence du rédacteur de la PC
+Devons nous adopter une nouvelle procédure vis a vis des propositions citoyennes ?
+1 )         On ne change rien
+Somme des votes : 12
+Votants exprimé : 5
+Moyenne arondis : 2.4/5
+2 )         Les futures PCs resteront en débat tant qu'elles n'auront pas été débatues avec leur auteur.
+Somme des votes : 17
+Votants exprimé : 5
+Moyenne arondis : 3.4/5
+La réponse 2 est retenue.
+ 
+RC2: 
+Souhaitez vous réformer la constitution ?
+1) La réforme est rejetée et abandonnée
+Somme des votes : 9
+Votants exprimé : 5
+Moyenne arondis : 1.8
+2) La réforme est rejetée et soumise à une nouvelle modification/
+Somme des votes : 7
+Votants exprimé : 5
+Moyenne arondis : 1.4
+3) La réforme est acceptée.
+Somme des votes : 20
+Votants exprimé : 5
+Moyenne arondis : 4
+La réponse 3 est retenue.
+ 
+Résultats des référendums du 25/05/23
+D32 / ML2: deuxième loi sur la visibilité des salons gouvernementaux
+Devons-nous cacher les salons relatifs au gouvernement sauf aux citoyens ?
+1 ) On ne change rien
+Somme des votes : 19
+Votants exprimé : 8
+Moyenne arondis : 2.38
+2 ) On rend le salon uniquement visible aux détenteurs des rôles "Citoyen.ne" et "Représentant étranger"
+Somme des votes : 25
+Votants exprimé : 8
+Moyenne arondis : 3.13
+La réponse 2 est retenue encore une fois, les salons doivent désormais être cachés aux étrangers exceptés les représentants.
+ 
+CC6: pour la simplification des réformes citoyennes
+Doit-il être mit en place une commission dans l'objectif de simplifier les réformes citoyennes ?
+1 ) Les limitations actuelles sont préservées.
+Somme des votes : 17
+Votants exprimé : 7
+Moyenne arondis : 2.43
+2 ) Une commission est mise en place pour assouplir ces limitations.
+Somme des votes : 28
+Votants exprimé : 7
+Moyenne arondis : 4
+3 ) Une commission est mise en place pour retirer ces limitations.
+Somme des votes : 22
+Votants exprimé : 7
+Moyenne arondis : 3.15
+La réponse 2 est retenue, les limitations seront assouplies.
+ 
+
+
+D32 / ML3: délivrance de rôle citoyen
+Le rôle citoyen sur le serveur discord doit-il être offert via un bot d'auto-rôle au lieu d'une procédure manuelle ?
+1 ) Le rôle citoyen est toujours donné par l'administration.
+Somme des votes : 30
+Votants exprimé : 8
+Moyenne arondis : 3.75
+2 ) Le rôle citoyen est offert via un bot d'auto-rôle.
+Somme des votes : 23
+Votants exprimé : 8
+Moyenne arondis : 2.88
+La réponse 1 est retenue, le rôle citoyen est toujours donné par l'administration.
+ 
+Elections du 25/05/23
+Postes à pourvoir :
+Magistrature
+@Gambas Des Neiges, @[014:158] Wolverhead, et@M. Lampenois deviennent magistrats.
+Ambassade
+@WolfoMir 🌹🚩🦔 Maintient son poste d'ambassadeur en terre inconnu et prend par défaut le poste d'ambassadeur au Dibistan (article III-5 de la loi organique sur les m
+Résultats de la procédure de vote accélérée du 25/05/23
+T12: Union entre RPD et RPDB
+Résultat du Référendum de la Procédure de Vote Accélérée 
+Acceptez-vous l'union du serveur de la RPDB à l'Etat de la RPD ? 
+Votants : 9 Moyenne : 4,6/5 Le présent traité est approuvé : https://docs.google.com/document/d/1y_DSSB9SWYxuEoEV7luYNw0jbGSsBIjJ5nkHbQL_0yU/edit?usp=sharing
+Résultats des référendums du 31/05/2023
+D33/ML4 : identification groupé des PC
+ : PC n°2223 : Doit-il être permit de cosigner une proposition citoyenne ? 1) Une seule personne doit pouvoir signer une proposition citoyenne :
+* Somme des votes : 21/35
+* Votes exprimés : 7/32
+* Moyenne arrondie : 3/5.
+2) Un groupe de personnes doit pouvoir signer une proposition citoyenne :
+* Somme des votes : 27/35
+* Votes exprimés : 7/32
+* Moyenne arrondie : 3.86/5.
+La réponse 2 est retenue, Les PCs pourront aussi être proposées par un groupe de citoyens.
+
+
+—--------------------------------------------------------------------------------
+Résultats du référendum du 19/06/2023 
+D34 : Identité des policiers  
+PC n°2131 : Policier ayant la citoyenneté 
+Réponse 1 ) Tout individu qui devra occuper le poste de Policier devra avoir la citoyenneté de la République Participative du Dibistan 
+Votants exprimé : 12 
+Moyenne arondis : 4.59 
+  
+Réponse 2 ) les policiers deviennent des gardes civils et le projet de loi suivant est adopté : ⁠PC n°2131 Policier ayant la cit…⁠ 
+Votants exprimé : 12 
+Moyenne arondis : 3.84 
+  
+Les deux réponses sont validées. 
+ 
+Résultat du Référendum de la Procédure de Vote Accélérée du 19/06/2023 
+L10 : la loi sur l'organisation discord  
+La loi organique est modifiée à partir du texte proposé. 
+Votants : 10  
+Moyenne : 4,7/5 
+Le présent texte modifiant la loi sur l'organisation discord est approuvé :  
+https://discord.com/channels/904736069080186981/930041311992631317/1120436074141990984 
+ 
+Résultat du Référendum de la Procédure de Vote Accélérée : 23/06/2023 
+ML5 : Modifications de “la garde civil” en “police republicaines” 
+Le terme de "garde civil" dans le code de la modération doit-il être remplacé par celui de "police républicaine ? 
+Réponse 1) Le terme de "garde civil" est remplacé par celui de "police républicaine". 
+Moyenne : 4,4/5 
+  
+Réponse 2) Le terme de garde civil est remplacé par celui de "Ilalibabi respublikial".  
+Moyenne : 2,666/5 
+ (Votants : 9) 
+La modération est désormais exclusivement connue sous le nom de police républicaine :  
+https://docs.google.com/document/d/1NjsELw6ThybEuY6Eq4LE8zRHdCXENuRZnZVi9c4_QAQ/edit 
+ 
+Résultats du référendum du 26/06/2023 
+  
+D35 : Modifications du nom de la micronations 
+n°2225 : Renommer le serveur en "République Participative du Dibistan" 
+Le serveur doit-il être renommé entre République Participative du Dibistan ? 
+  
+Réponse 1) Le serveur est renommé en République Participative du Dibistan  
+Votants exprimé : 10 
+Moyenne arondis : 4.1/5 
+  
+Réponse 2) Le serveur garde le nom de République Populaire du Dibistan  
+Votants exprimé : 10 
+Moyenne arondis : 2.21/5 
+  
+L11 /ML6 : Texte de loi sur les travaux magistraux 
+n°2226 : Loi première sur la définition des travaux magistraux 
+Le texte de loi première sur la définition des travaux magistraux doit-elle être adoptée ? 
+  
+Réponse 1) La loi est adoptée.  
+Votants exprimé : 9 
+Moyenne arondis : 4.34/5 
+  
+Réponse 2) La loi est modifiée. 
+Votants exprimé : 9 
+Moyenne arondis : 2.45/5 
+  
+Réponse 3) La loi est rejetée. 
+Votants exprimé : 9 
+Moyenne arondis : 1.56/5 
+ 
+D36 : Faut-il mettre à la poubelle les propositions citoyennes négatives de la PVD ? 
+n°2227 : Mettre à la poubelle les PCs négatives 
+ 
+  
+Réponse 1) Les magistrats archivent les propositions citoyennes en dessous de -5 de la PVD. 
+Votants exprimé : 10 
+Moyenne arondis : 3/5 
+  
+Réponse 2) Les secrétaires généraux archivent les propositions citoyennes en dessous de -5 de la PVD. 
+Votants exprimé : 10 
+Moyenne arondis : 4.2/5 
+  
+Réponse 3) Les propositions citoyennes négatives restent affichées sur la PVD. 
+Votants exprimé : 10 
+Moyenne arondis : 1.9/5 
+
+
+Resultats des referundums du 03/07/2023 
+L12 : Le texte de loi première sur les limites relatives au domaine de compétence de la magistrature doit-elle adoptée ? 
+PC N°2340 : Loi Première, relative au domaine de compétence des instances judiciaire Dibistanaise 
+Réponse 1) La loi est accepté ? 
+Votants exprimé : 9 
+Moyenne arondis : 4.34 
+  
+Réponse 2) La loi doit être modifiée. 
+Votants exprimé : 9 
+Moyenne arondis : 2.45 
+  
+Réponse 3) La loi est refusé ?  
+Votants exprimé : 9 
+Moyenne arondis : 1.56 
+ 
+Le présent texte de loi est adopté : https://docs.google.com/document/d/1uwT-znH44Na8ZiZ7w7mWeMKPPr6AI6-ceH2cD_C8eTU/edit?usp=sharing 
+ 
+CC7 : Pour l’organisation d’un tournois d’esport Micro nationale 
+ 
+PC N°2341 : Tournoi de e-sport micro national (récompense en Lux ?) 
+Réponse 1) Créer une commission pour l’organisation d’un tournois d’e-sport micronational ?  
+Votants exprimé : 11 
+Moyenne arondis : 4.82 
+  
+La commission est créée. 
+ 
+CC8 : Pour lister les loisirs organisables par la RPD 
+ 
+ PC N°2339 : Loisirs 
+Faut-il créer une commission pour lister les loisirs organisables par la RPD ? 
+  
+Réponse 1) Création d’une commission pour répertorier les loisirs qui peuvent être organisé par la République ? 
+Votants exprimé : 11 
+Moyenne arondis : 4.73 
+  
+La commission est créée. 
+
+
+[a]Bonne idée !
+[b]il s'agit de normes ;) les loi étant un cas de normes possible
+[c]Je me suis toujours demandé un truc : quand une loi est votée, elle est laissée telle quelle ou elle est organisée et rangée à un endroit précis, article par article ? C'est difficile de s'y retrouver sinon je pense.

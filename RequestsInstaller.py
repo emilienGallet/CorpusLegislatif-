@@ -8,7 +8,7 @@ class RequestsInstaller:
         self.check_and_install_requests('json')
         self.check_and_install_requests('pathlib')
         self.check_and_install_requests('os')
-        self.check_and_install_requests('pyproject-toml')
+        # self.check_and_install_requests('pyproject-toml')
         self.check_and_install_requests('aiohttp')
         self.check_and_install_requests('discord')
         self.check_and_install_requests('webbrowser')

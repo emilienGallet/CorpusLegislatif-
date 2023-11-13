@@ -8,12 +8,17 @@ Auteur : GALLET Émilien
 Date : 7 novembre 2023
 """
 import CurlLaw
+import DwldLaw
 # Press Maj+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import RequestsInstaller
 import Traitement
 import TupleToHTML
 #import ActualiterEtMAJ
+
+import webbrowser
+import sys
+import os
 
 
 def print_hi(name):
@@ -27,20 +32,22 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Corpus législatif de la RPD')
     # Install les dépendances
-    import sys
     if getattr(sys, 'frozen', False):
         print("soyons fou")
     else:
         RequestsInstaller.RequestsInstaller()
     # Télécharge sur le site de la république les PC
     dataExportPVD = CurlLaw.CurlLaw(url="https://rpd.dirtybiologistan.com/exportPVD").data
-    #dataFromDiscordChannel = ActualiterEtMAJ.ActualiterEtMAJ().data
+    # dataFromDiscordChannel = ActualiterEtMAJ.ActualiterEtMAJ().data
     # Traite les données récoltée
-    cleanerData = Traitement.Traitement.traiterDataExportPVD(dataExportPVD)
-    # Affichage des résultats
-    TupleToHTML.TupleToHTML(cleanerData).build(None, None)
+    cleanedData = Traitement.Traitement.traiterDataExportPVD(dataExportPVD)
+    dataFromVerifiyingSources, dataToFindSources = DwldLaw.DwldLaw(cleanedData=cleanedData).data()
+    for url in dataToFindSources:
+        webbrowser.open(url)
 
-    import os
+
+    # Affichage des résultats
+    TupleToHTML.TupleToHTML(cleanedData).build(None, None)
     
 
     if getattr(sys, 'frozen', False):
@@ -56,7 +63,7 @@ if __name__ == '__main__':
     # Composez le chemin complet du fichier relatif
     file_path = os.path.join(script_directory, relative_path)
 
-    import webbrowser
+
     # URL de la page que vous souhaitez ouvrir
     url = "file://"+file_path
 
