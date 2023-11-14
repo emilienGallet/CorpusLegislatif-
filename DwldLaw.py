@@ -37,7 +37,7 @@ class DwldLaw:
             else:
                 # L'exécutable est exécuté en tant que script Python
                 script_directory = os.path.dirname(os.path.abspath(__file__))
-            with open(os.path.join(script_directory, "sourceDwnld", anFetchedData[1]), 'r') as file:
+            with open(os.path.join(script_directory, "sourceDwnld", anFetchedData[1]), 'r', encoding="utf-8") as file:
                 for line in file:
                     urls = self.findURLs(line)
                     if urls != None or urls == []:
